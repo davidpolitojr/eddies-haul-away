@@ -15,7 +15,7 @@ li{
 p {
 	font-size: 40px;
 	margin-top: 2px;
-    text
+    
 }
 
 .footer{
@@ -27,6 +27,7 @@ p {
 header {
     
     background-color: darkblue;
+    width: 100%;
 }
 
 body {
